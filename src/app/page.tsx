@@ -1,6 +1,6 @@
 import {BoltIcon, ExclamationTriangleIcon, SunIcon} from '@heroicons/react/24/outline'
 import React from "react";
-import {InfoColumn} from "@/app/infoColumn";
+import {InfoColumn} from "@/app/components/infoColumn";
 
 
 function HomePage() {

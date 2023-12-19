@@ -1,5 +1,5 @@
 import React, {ReactElement} from "react";
-import {IconWrapper} from "@/app/iconWrapper";
+import {IconWrapper} from "@/app/components/iconWrapper";
 
 export function InfoColumn({icon}: { icon: ReactElement }): ReactElement {
     return <div>
